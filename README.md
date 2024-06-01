@@ -1,2 +1,2 @@
 # Web-1
-Laboratory work number 1 on the web
+2. Вывести в текстовый файл с 12 по 45 строку файла ~/.bashrc
